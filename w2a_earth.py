@@ -1,10 +1,11 @@
 
 # coding: utf-8
-//hi
+
 
 # In[10]:
 #Edit on Sep 14 by Ziteng Xu for EC601
 # AUTHOR ZITENG XU zxu83@bu.edu
+#Third edit
 import math;
 earth_mass = 5.98*(10**24)
 earth_molar_mass = (55.845*32.1/100) + (15.9994*30.1/100) + (28.0855*15.1/100) + (24.3050*13.9/100) + (32.065 * 2.9/100)+(58.6934 *1.8/100) + (40.078 *1.5/100) + (26.9815*1.4/100)
