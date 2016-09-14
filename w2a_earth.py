@@ -1,6 +1,11 @@
 
 # coding: utf-8
+<<<<<<< HEAD
 
+=======
+#second modification
+# In[10]:
+>>>>>>> readme
 
 # In[10]:
 #Edit on Sep 14 by Ziteng Xu for EC601
