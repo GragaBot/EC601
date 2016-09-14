@@ -29,6 +29,7 @@ lower_molar_earth = earth_mass / lower_earth_molar_mass;
 lower_total_electron = lower_electron_per_molar * lower_molar_earth * aov_number / (10**12);
 print(lower_total_electron)
 print((lower_total_electron + total_electron)/2);
+EC601 = 1
 
 
 
