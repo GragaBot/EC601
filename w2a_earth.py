@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[10]:
-
+#Edit on Sep 14 by Ziteng Xu for EC601
 # AUTHOR ZITENG XU zxu83@bu.edu
 import math;
 earth_mass = 5.98*(10**24)
