@@ -1,9 +1,9 @@
-
+#readme modification
 # coding: utf-8
 <<<<<<< HEAD
 
 =======
-#second modification
+
 # In[10]:
 >>>>>>> readme
 
