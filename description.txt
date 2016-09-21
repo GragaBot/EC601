@@ -1,0 +1,6 @@
+This software is designed for astronomy to estimate the possible numbers
+of electrons on the earth, and convert this number to an equivalent 
+number of terabytes (TB).Here we consider the earth as a giant
+supercomputer, and each electron represents a bit of storage. The 
+software will compute and present the upper and lower boundaries and 
+the average value of the result.   
